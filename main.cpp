@@ -1,8 +1,8 @@
 /**
-* Name:
-* Program Name:
-* Date:
-* Extra:
+* Name:tj
+* Program Name:Make a calc
+* Date:09/12/24
+* Extra:add all the values
 */
 
 #include <iostream>
